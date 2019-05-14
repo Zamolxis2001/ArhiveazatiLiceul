@@ -1,0 +1,1 @@
+<?php	$db=new mysqli("localhost","id9539151_arhiveazatiliceul1","mecanic1","id9539151_school");	if(!$db)	{		echo "failed";	}	?>

@@ -1,0 +1,1 @@
+<?php	$db=new mysqli("localhost","u783075880_dan","Hh1LJIPI3tUn","u783075880_schoo");	if(!$db)	{		echo "failed";	}	?>
